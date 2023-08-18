@@ -1,0 +1,426 @@
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Homepage {
+	position: absolute;
+	width: 1920px;
+	height: 6224px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_1 {
+	fill: rgba(25,26,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1048.599px;
+	left: 0px;
+	top: 30px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_1 {
+	fill: rgba(25,26,35,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#Im_Regan_A_photographer_and_de {
+	transform: matrix(1,0,0,1,145,522) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 669px;
+	height: 141px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Hello_Im_Regan {
+	left: 145px;
+	top: 400px;
+	position: absolute;
+	overflow: visible;
+	width: 851px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#CLIENT_PHOTOSHOOT {
+	left: 145px;
+	top: 1177px;
+	position: absolute;
+	overflow: visible;
+	width: 1040px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans Nova;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(25,26,35,1);
+}
+#COMPETITION_SHOOT {
+	left: 144px;
+	top: 4027px;
+	position: absolute;
+	overflow: visible;
+	width: 1066px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(25,26,35,1);
+}
+#Canon_Youth_Photography_Awards {
+	left: 144px;
+	top: 4135px;
+	position: absolute;
+	overflow: visible;
+	width: 841px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(25,26,35,1);
+}
+#Ellipse_1 {
+	fill: rgba(25,26,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1263px;
+	height: 1292px;
+	left: -1839px;
+	top: -631px;
+}
+#Ellipse_2 {
+	fill: rgba(163,128,39,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 832px;
+	height: 811px;
+	left: 1041px;
+	top: 168px;
+}
+#Ellipse_6 {
+	fill: rgba(163,128,39,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 912px;
+	height: 912px;
+	left: 1302px;
+	top: 3771px;
+}
+#Ellipse_3 {
+	fill: rgba(163,128,39,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1382px;
+	height: 1382px;
+	left: -341px;
+	top: 1591px;
+}
+#CONTACT {
+	left: 1705px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#WORKS {
+	left: 1554px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#ABOUT_ME {
+	left: 1361px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	transition: all 1s ease-in-out;
+	--web-animation: fadein 1s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: About.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#IMG_8910 {
+	position: absolute;
+	width: 1033px;
+	height: 689px;
+	left: 144px;
+	top: 1350px;
+	overflow: visible;
+}
+#IMG_8952 {
+	position: absolute;
+	width: 1033px;
+	height: 689px;
+	left: 725px;
+	top: 2093px;
+	overflow: visible;
+}
+#Ellipse_4 {
+	fill: rgba(25,26,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1263px;
+	height: 1292px;
+	left: -487px;
+	top: 2543px;
+}
+#Ellipse_5 {
+	fill: rgba(25,26,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1263px;
+	height: 1292px;
+	left: 1027px;
+	top: 4247px;
+}
+#IMG_8978 {
+	position: absolute;
+	width: 1033px;
+	height: 688px;
+	left: 144px;
+	top: 2837px;
+	overflow: visible;
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1236.5px;
+	height: 1px;
+	left: 144px;
+	top: 3972.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#IMG_9852 {
+	position: absolute;
+	width: 816px;
+	height: 1224px;
+	left: 144px;
+	top: 4247px;
+	overflow: visible;
+}
+#This_image_received_runner-up_ {
+	left: 1214px;
+	top: 4904px;
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(255,255,255,1);
+}
+#CANON_YOUTH_PHOTOGRAPHY_AWARDS {
+	left: 1214px;
+	top: 4635px;
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 57px;
+	color: rgba(255,255,255,1);
+}
+#n_262450732935416409 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 654.828px;
+	height: 892px;
+	left: 1166px;
+	top: 186.599px;
+	overflow: visible;
+}
+#Artboard_1 {
+	position: absolute;
+	width: 189px;
+	height: 65px;
+	left: 50px;
+	top: 15px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(25,26,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 241px;
+	left: 0px;
+	top: 5983px;
+}
+#THIS_WEBSITE_IS_A_DEMO_TEST__H {
+	left: 256px;
+	top: 6052px;
+	position: absolute;
+	overflow: visible;
+	width: 619px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gill Sans MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#linkedin {
+	position: absolute;
+	width: 114px;
+	height: 114px;
+	left: 1550px;
+	top: 6047px;
+	overflow: visible;
+}
