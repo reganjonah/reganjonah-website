@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>WX Navigation Menu</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="main-menu">
+                <img class="logo" src="logo.svg">
+                <div class="hamburger-menu" onclick="toggleMenu()">&#9776;</div>
+                <div  id="nav-links" class="navigation-links">
+                    <a href="#">Home</a>
+                    <div class="dropdown">
+                        <a class="dropdown" href="#">Package Tours</a>
+                        <div class="dropdown-content">
+                        <a href="#">Full Day Tours</a>
+                        <a href="#">Half Day Tours</a>
+                        <a href="#">Family Tours</a>
+                        </div>
+                      </div>
+
+                    <a href="#">Rediscover Singapore</a>
+                    <a href="cruises.html">Cruises</a>
+                    <a href="contacts.html">Contact Us</a>
+                </div>
+                
+            </div>
+        </nav>
+    </header>
+
+<div class="bg-vid">
+    <video autoplay muted loop>
+    <source src="video3.mp4" type="video/mp4">
+    </video>
+</div>
+        
+<section class="card-holder">
+
+    <div class="card">
+        <div class="container">
+            <img class="article-img zoom-image" src="article.jpg">
+          <h4><b>Rio De Janeiro - Statue of Christ the Redeemer</b></h4>
+          <p>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brazil</p>
+        </div>
+      </div>
+    
+    
+    <div class="card">
+        <div class="container">
+            <img class="article-img zoom-image" src="article2.jpg">
+          <h4><b>Rio De Janeiro - Maracanã Stadium</b></h4>
+          <p>Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130, Brazil</p>
+        </div>
+      </div>
+   
+
+    <div class="card">
+        <div class="container">
+            <img class="article-img zoom-image" src="article3.jpg">
+            </div>
+            <h4><b>Rio De Janeiro - Tijuca National Park</b></h4>
+            <p>Estr. da Cascatinha, 850 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-590, Brazil</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            document.getElementById("nav-links").classList.toggle("menu-open");
+            
+        }
+    </script>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; World Xplore</p>
+        </div>
+    </footer>
+</body>
+</html>
